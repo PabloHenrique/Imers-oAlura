@@ -9,3 +9,6 @@ Repositório destinado a guardar projetos e anotações das aulas realizadas na 
 - Objetivo: Calcular a média (valores previamente informados) e imprimir resultado no console.
 
 ## Aula 02
+- Entendendo mais sobre as variáveis
+- Buscar e alterar dados no HTML com JS
+- Objetivo: Sistema de converter Dólar em Real
