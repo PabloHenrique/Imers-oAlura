@@ -12,3 +12,8 @@ Repositório destinado a guardar projetos e anotações das aulas realizadas na 
 - Entendendo mais sobre as variáveis
 - Buscar e alterar dados no HTML com JS
 - Objetivo: Sistema de converter Dólar em Real
+
+## Aula 03
+- Como gerar um número aleatório
+- Estrutura de seleção (If, else)
+- Objetivo: "Adivinhar" o número gerado aleatóriamente
